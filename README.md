@@ -40,5 +40,3 @@ BK är bäst
 
 # Markel 
 * Projects: Unity/Arduino/P5
-
-* MORE CONTENE
