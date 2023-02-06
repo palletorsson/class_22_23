@@ -34,7 +34,7 @@
 # Palle Project 
 * https://github.com/users/palletorsson/projects/1
 
-# Stina
+# Stinas
 * https://github.com/users/codingtrees/projects/1
 
 # Markel
