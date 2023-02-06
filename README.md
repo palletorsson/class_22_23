@@ -37,6 +37,5 @@
 # Stina
 * https://github.com/users/codingtrees/projects/1
 
-# Mira
-* https://github.com/users/eldkranium/projects/1
-
+# Markel
+* https://github.com/users/MarkelAhlenius/projects/1
